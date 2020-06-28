@@ -13,5 +13,3 @@ d)If you are using maven, add the following dependancy in the pom.xml file
       <artifactId>selenium-java</artifactId>
       <version>4.0.0-alpha-2</version>
   	</dependency>
-
-        
