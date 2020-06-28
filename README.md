@@ -11,8 +11,13 @@ c) After downloading in line no: 33 of App.Java main file
         System.setProperty("webdriver.ie.driver","YourSeleniumWebDriverFilePath\\IEDriverServer.exe");
         
 d)If you are using maven, add the following dependancy in the pom.xml file
+
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>4.0.0-alpha-2</version>
   	</dependency>
+
+e)Make sure you are connected with pulse or VPN or using Companies WiFi
+
+f)Run the code
